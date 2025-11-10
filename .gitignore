@@ -1,0 +1,6 @@
+# Compiled files
+*.exe
+*.o
+
+# Data files (so your personal list isn't overwritten)
+*.dat
