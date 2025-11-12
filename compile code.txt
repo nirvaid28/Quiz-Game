@@ -1,0 +1,1 @@
+gcc quiz_game.c -o quiz_game.exe -std=c99 -Wall

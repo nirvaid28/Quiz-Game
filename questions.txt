@@ -1,1379 +1,679 @@
-An 'if-else' statement in programming is used for...
-Loops
-Decision making
-Storing data
-Printing text
+Who is known as the "Badshah of Bollywood"?
+Salman Khan
+Akshay Kumar
+Shah Rukh Khan
+Hrithik Roshan
+C
+---
+Which 2023 film featured the viral song "Jhoome Jo Pathaan"?
+War
+Tiger 3
+Pathaan
+Zero
+C
+---
+Which movie's song "Naatu Naatu" won an Oscar for Best Original Song in 2023?
+Pushpa
+RRR
+K.G.F: Chapter 2
+Vikram
 B
 ---
-What converts source code into machine code all at once?
-Interpreter
-Compiler
-Debugger
-Linker
-B
+Which actress played the lead role in the 2023 film *Jawan*?
+Deepika Padukone
+Katrina Kaif
+Nayanthara
+Alia Bhatt
+C
 ---
-What converts source code into machine code line-by-line?
-Interpreter
-Compiler
-Debugger
-Linker
+Which actor is famous for his high-energy "hook steps" in songs like "Malhari"?
+Ranveer Singh
+Ranbir Kapoor
+Shahid Kapoor
+Varun Dhawan
 A
 ---
-What does OOP stand for?
-Object-Oriented Programming
-Order-Oriented Programming
-Original Object Program
-Open Object Protocol
-A
----
-In OOP, what is a 'class'?
-A variable
-A function
-A blueprint for creating objects
-An instance of an object
-C
----
-What is a 'function' in programming?
-A type of variable
-A reusable block of code
-A data structure
-A hardware component
-B
----
-What HTTP error code means 'Not Found'?
-200
-404
-500
-301
-B
----
-What is the foundational protocol suite for the internet?
-HTTP/HTTPS
-FTP/SMTP
-TCP/IP
-UDP/ARP
-C
----
-Which address identifies a device on a local network?
-IP Address
-MAC Address
-URL
-Port Number
-B
----
-Which device forwards data packets between computer networks?
-Modem
-Router
-Switch
-Hub
-B
----
-What device connects your home network to the internet?
-Router
-Switch
-Modem
-Access Point
-C
----
-Which of these is a popular high-level programming language known for AI?
-HTML
-CSS
-Python
-SQL
-C
----
-Which language is 'write once, run anywhere' (WORA)?
-C
-C++
-Java
-Python
-C
----
-Which language is primarily used for client-side web interactivity?
-Java
-Python
-C#
-JavaScript
+What is the famous on-screen pair of Shah Rukh Khan and Kajol often called by fans?
+RaKaj
+SRK-K
+Jodis
+Raj-Simran
 D
 ---
-What language was developed by Microsoft for its .NET platform?
-Java
-Swift
-C#
-PHP
+Which actress made her debut with the film *Student of the Year*?
+Sara Ali Khan
+Ananya Panday
+Alia Bhatt
+Janhvi Kapoor
 C
 ---
-What server-side scripting language is widely used for web development?
-JavaScript
-HTML
-CSS
-PHP
+What is the name of the character played by Ranbir Kapoor in *Yeh Jawaani Hai Deewani*?
+Bunny
+Kabir
+Ayan
+Sid
+A
+---
+Which movie has the famous dialogue: "How's the Josh?"
+Shershaah
+Uri: The Surgical Strike
+Tanhaji
+Bhaag Milkha Bhaag
+B
+---
+Which actress played the role of a boxer in the biopic *Mary Kom*?
+Katrina Kaif
+Shraddha Kapoor
+Kareena Kapoor
+Priyanka Chopra
 D
 ---
-What language did Apple develop for iOS and macOS apps?
-Objective-C
-Java
-Swift
-Kotlin
+Which actor is known as the "Khiladi" of Bollywood?
+Shah Rukh Khan
+Salman Khan
+Akshay Kumar
+Aamir Khan
 C
 ---
-What is the .NET framework?
-A programming language
-An operating system
-A software framework by Microsoft
-A database system
-C
----
-What is Node.js?
-A web browser
-A JavaScript runtime environment
-A JavaScript library
-A database
+Which recent movie stars Sunny Deol and is a sequel to a 2001 film?
+Border 2
+Gadar 2
+Apne 2
+Yamla Pagla Deewana 3
 B
 ---
-What is React?
-A JavaScript library for building user interfaces
-A programming language
-A database
-An operating system
-A
----
-What is Angular?
-A JavaScript framework for building web applications
-A programming language
-A database
-A text editor
-A
----
-What is Vue.js?
-A JavaScript framework for building user interfaces
-A back-end language
-A database
-A cloud platform
-A
----
-What does 'Git' mean?
-A web hosting service
-A programming language
-A version control system
-A database
-C
----
-What is GitHub?
-A text editor
-A version control system
-A web-based platform for Git repositories
-A programming language
-C
----
-What does API stand for?
-Application Programming Interface
-Advanced Program Interaction
-Automated Programming Interface
-Application Process Integration
-A
----
-What is JSON?
-A programming language
-A database
-A data-interchange format
-A styling language
-C
----
-What does XML stand for?
-Extra Modern Language
-eXtensible Markup Language
-Example Markup Language
-Executed Macro Language
+What is the full form of the film title *K.G.F*?
+Konkan Gold Fields
+Kolar Gold Fields
+Kashmir Gold Force
+Karnataka Global Fund
 B
 ---
-What does SaaS stand for?
-Software as a Service
-System as a Service
-Security as a Service
-Storage as a Service
+Which actress is known for the phrase "Main apni favourite hoon"?
+Kareena Kapoor
+Alia Bhatt
+Kangana Ranaut
+Deepika Padukone
 A
 ---
-What does PaaS stand for?
-Platform as a Service
-Protocol as a Service
-Power as a Service
-Program as a Service
+The dance step of the song "Taki Taki" from the film *Himmatwala* is a popular reel trend. Who is the lead actress?
+Tamannaah Bhatia
+Rakul Preet Singh
+Shruti Haasan
+Kiara Advani
 A
 ---
-What does IaaS stand for?
-Infrastructure as a Service
-Internet as a Service
-Interface as a Service
-Integration as a Service
+Which singer's songs are frequently used for "sad-boy" aesthetic reels?
+Arijit Singh
+Atif Aslam
+B Praak
+Jubin Nautiyal
 A
 ---
-What does a VPN do?
-Increases internet speed
-Creates a secure, encrypted connection
-A type of antivirus
-A cloud storage service
-B
----
-What is 'Ethernet'?
-A type of wireless connection
-A standard for wired local area networks (LANs)
-A type of computer virus
-A programming language
-B
----
-What is 'bytecode' in Java?
-The Java source code
-Human-readable code
-Intermediate code executed by the JVM
-The final machine code
-C
----
-What does JIT stand for in computing?
-Just-In-Time
-JavaScript Interaction Tool
-Java Integration Test
-Joined-Internet-Technology
+The movie *Fighter* (2024) stars Hrithik Roshan and which actress?
+Deepika Padukone
+Anushka Sharma
+Katrina Kaif
+Shraddha Kapoor
 A
 ---
-What is 'Garbage Collection' in programming?
-Deleting old files
-Cleaning the computer's memory
-Automatic memory management
-A type of data sorting
-C
----
-What is a 'blockchain'?
-A type of database
-A cryptocurrency
-A distributed, immutable ledger
-A network protocol
-C
----
-What is a 'cryptocurrency'?
-A digital or virtual currency
-A type of stock
-A banking software
-A secure algorithm
-A
----
-Which is the first and most well-known cryptocurrency?
-Ethereum
-Litecoin
-Ripple
-Bitcoin
+Which actor is also famous for his cooking and fitness videos on social media?
+Hrithik Roshan
+Vidyut Jammwal
+Suniel Shetty
+Akshay Kumar
 D
 ---
-Which blockchain platform introduced 'smart contracts'?
-Bitcoin
-Ethereum
-Dogecoin
-Cardano
-B
+The famous dialogue "Picture abhi baaki hai mere dost" is from which Shah Rukh Khan movie?
+Don
+Chennai Express
+Om Shanti Om
+Happy New Year
+C
 ---
-What does NFT stand for?
-Non-Fungible Token
-New File Transfer
-Network File Token
-Non-Functional Test
+Which film marked the directorial debut of Karan Johar?
+Kuch Kuch Hota Hai
+Kabhi Khushi Kabhie Gham
+My Name Is Khan
+Student of the Year
 A
 ---
-What is Quantum Computing?
-A computer that uses multiple CPUs
-Computing using quantum-mechanical phenomena
-A new type of AI
-A cloud computing service
-B
----
-What is a 'qubit'?
-A small bit
-A classical bit
-A quantum bit
-A type of CPU
-C
----
-What is 'Big Data'?
-A large hard drive
-A popular database software
-Extremely large data sets
-A new type of RAM
-C
----
-Which of these is a 'NoSQL' database?
-MySQL
-PostgreSQL
-Microsoft SQL Server
-MongoDB
+Which actress is known for her roles in *Piku*, *Padmaavat*, and *Chhapaak*?
+Anushka Sharma
+Priyanka Chopra
+Katrina Kaif
+Deepika Padukone
 D
 ---
-What does 'IoT' stand for?
-Internet of Things
-Input/Output Technology
-Internet of Telephones
-Interface of Technology
+The song "Param Sundari" is from which film?
+Mimi
+Atrangi Re
+Shershaah
+Coolie No. 1
 A
 ---
-What is 'ransomware'?
-Software that is free to use
-Malware that encrypts files and demands payment
-A computer security update
-An open-source payment system
-B
----
-What is two-factor authentication (2FA)?
-Using two passwords
-A security method requiring two forms of ID
-An antivirus software
-A network firewall
-B
----
-What is a 'botnet'?
-A network of infected computers
-A type of AI
-A social media algorithm
-A computer hardware store
-A
----
-What is 'data mining'?
-Stealing data
-Discovering patterns in large data sets
-Deleting large amounts of data
-A type of computer virus
-B
----
-What does CPU stand for?
-Central Processing Unit
-Computer Personal Unit
-Central Power Unit
-Control Processing Unit
-A
----
-What is the "brain" of the computer?
-CPU
-RAM
-Hard Drive
-Motherboard
-A
----
-What does RAM stand for?
-Read and Memorize
-Real-time Access Memory
-Random Access Memory
-Run All Memory
+What is the full form of the film title *D.D.L.J.*?
+Dil Deewana Le Jaana
+Dil Diya Lagaya Jaadu
+Dilwale Dulhania Le Jayenge
+Deewana Dil Le Ja
 C
 ---
-Which component stores data long-term, even when the power is off?
-CPU
-RAM
-Cache
-Hard Drive / SSD
+Which film features the iconic song and dance sequence on a water tank from which Veeru proposes to Basanti?
+Lagaan
+Sholay
+Don
+Mughal-e-Azam
+B
+---
+The movie *War* (2019) is famous for its action sequences between Hrithik Roshan and which other actor?
+Tiger Shroff
+John Abraham
+Akshay Kumar
+Shahid Kapoor
+A
+---
+Which actress is married to actor Ranveer Singh?
+Anushka Sharma
+Priyanka Chopra
+Alia Bhatt
+Deepika Padukone
 D
 ---
-What does OS stand for?
-Operating System
-Order of Signals
-Open Software
-Output System
-A
----
-Which of these is NOT an operating system?
-Windows 11
-macOS
-Microsoft Office
-Linux
+Which actress played the role of 'Shanti Priya' in the film *Om Shanti Om*?
+Priyanka Chopra
+Anushka Sharma
+Deepika Padukone
+Katrina Kaif
 C
 ---
-What does 'www' stand for?
-World Web Wide
-World Wide Web
-Wide World Web
-Web World Wide
+The character 'Circuit' is a popular sidekick in which film series?
+Golmaal
+Dhoom
+Munna Bhai
+Hera Pheri
+C
+---
+Which film features the dialogue, "Don't underestimate the power of a common man"?
+Singham
+Ra.One
+Chennai Express
+Dabangg
+C
+---
+Who is the music director known for his popular romantic songs like "Tum Hi Ho" and "Sunn Raha Hai"?
+Pritam
+Mithoon
+Himesh Reshammiya
+Ankit Tiwari
 B
 ---
-What protocol is used to securely browse websites (it shows a lock icon)?
-HTTP
-FTP
-SMTP
-HTTPS
+Who is the actor in the film *Animal* (2023) whose performance received huge online engagement?
+Vicky Kaushal
+Bobby Deol
+Ranbir Kapoor
+Anil Kapoor
+C
+---
+The song "Arjan Vailly" is a popular BGM (background music) on Reels from which movie?
+Jawan
+Sam Bahadur
+Animal
+Pathaan
+C
+---
+Which actress is known for her viral reel where she says, "Just looking like a wow"?
+Sara Ali Khan
+Rakhi Sawant
+Deepika Padukone
+Jannat Zubair
+B
+---
+Which movie's success led to the popular saying, "Emiway Bantai vs. Divine"?
+Gully Boy
+83
+Rocky Aur Rani Kii Prem Kahaani
+Bhool Bhulaiyaa 2
+A
+---
+The dialogue "Bade Bade Deshon Mein Aisi Chhoti Chhoti Baatein Hoti Rehti Hai" is from which film?
+Kabhi Khushi Kabhie Gham
+DDLJ
+Dil To Pagal Hai
+Kuch Kuch Hota Hai
+B
+---
+Who is the actress that married Nick Jonas?
+Alia Bhatt
+Deepika Padukone
+Priyanka Chopra
+Anushka Sharma
+C
+---
+The song "Kesariya" is from the soundtrack of which film?
+Brahmāstra
+Laal Singh Chaddha
+RRR
+Gehraiyaan
+A
+---
+The song "Naacho Naacho" from *RRR* is known in Hindi as:
+Jhoom Le
+Nach Meri Jaan
+Naatu Naatu
+Nacho Nacho
 D
 ---
-What does IP stand for in IP Address?
-Internet Protocol
-Internet Provider
-Internal Protocol
-Internal Provider
-A
----
-What service translates domain names (like google.com) to IP addresses?
-DHCP
-DNS
-FTP
-HTTP
+Which actor is popularly called "Bhaijaan" by his fans?
+Aamir Khan
+Shah Rukh Khan
+Salman Khan
+Saif Ali Khan
 C
 ---
-Which of these is a web browser?
-Microsoft Word
-Adobe Photoshop
-Notepad
-Google Chrome
+Which famous YouTuber and comedian is known for his 'Zakir Khan' style of storytelling and stand-up?
+Bhuvan Bam
+Prajakta Koli
+Zakir Khan
+Tanmay Bhat
+C
+---
+Which movie popularized the dialogue: "Goli maar bheje mein, bheja shor karta hai"?
+Satya
+Company
+Vaastav
+Shiva
+A
+---
+The song "Chaiyya Chaiyya" was famously shot on top of a:
+Bus
+Car
+Train
+Boat
+C
+---
+What is the full name of the iconic character played by Amjad Khan in *Sholay*?
+Gabbar Singh
+Thakur Baldev Singh
+Jai
+Veeru
+A
+---
+Which actor played the role of the antagonist 'Khalid' in the film *War*?
+Tiger Shroff
+Ranveer Singh
+Aamir Khan
+Vidyut Jammwal
+A
+---
+Which Bollywood actress is the global brand ambassador for Gucci?
+Alia Bhatt
+Priyanka Chopra
+Deepika Padukone
+Anushka Sharma
+A
+---
+The viral dance trend "What Jhumka?" is from which film?
+Rocky Aur Rani Kii Prem Kahaani
+Bhediya
+Zara Hatke Zara Bachke
+Shehzada
+A
+---
+The acronym **G.O.A.T.** which appears in many sports and film reels stands for:
+Good Ol' American Truck
+Greatest of All Time
+Girls of All Types
+Go Out And Travel
+B
+---
+What is the famous step in the song "Saami Saami" from the movie *Pushpa: The Rise*?
+Shoulder Shimmy
+Hand Wave
+Shoe Polish Step
+Head Nod
+A
+---
+What does the Gen Z slang term "**No cap**" mean?
+I'm kidding
+I'm telling the truth
+I'm wearing a hat
+I'm going to sleep
+B
+---
+Which song by Diljit Dosanjh became a massive hit on Instagram Reels for dancing?
+Vibe
+Lover
+Proper Patola
+G.O.A.T.
+B
+---
+What does the Gen Z slang term "**Slay**" mean in a compliment?
+To rest
+To kill an insect
+To fail badly
+To nail it or do it perfectly
 D
 ---
-What does HTML stand for?
-HyperText Markup Language
-Hyperlink and Text Markup
-High-Level Text Language
-Home Tool Markup Language
+Which song is popularly used for a **#CoupleGoals** reel?
+Channa Mereya
+Tujh Mein Rab Dikhta Hai
+Enna Sona
+Mere Yaaraa
 B
 ---
-What language is used to style web pages?
-HTML
-CSS
-Python
-Java
+Which singer's song "Pasoori" became an international reel sensation?
+Arijit Singh
+Shreya Ghoshal
+Ali Sethi
+Asim Azhar
+C
+---
+The acronym for "Outfit of the Day" popular in fashion reels is:
+OTD
+OOTD
+OOTF
+OTF
+B
+---
+Which song from *Kabhi Khushi Kabhie Gham* is often used for reels about nostalgia or family?
+Bole Chudiyan
+Suraj Hua Maddham
+Say Shava Shava
+Yeh Ladka Hai Deewana
 A
 ---
-Which of these is NOT a programming language?
-Python
-JavaScript
-C++
-HTML
+Which song is commonly used in the "I'm a Barbie Girl" trend?
+Barbie Girl - Aqua
+Cruel Summer - Taylor Swift
+Dance The Night - Dua Lipa
+Pink Venom - BLACKPINK
+C
+---
+The trend "Main Character Energy" is about:
+Being a sidekick
+Being fully in control of your own life
+Being quiet
+Being a movie critic
+B
+---
+The song "**O Maahi**" which trended heavily on Reels in late 2023/early 2024 is from which Shah Rukh Khan film?
+Pathaan
+Jawan
+Dunki
+Zero
+C
+---
+Which viral song is from the 2024 film *Teri Baaton Mein Aisa Uljha Jiya*?
+Tere Vaaste
+Akhiyaan Gulaab
+O Bedardeya
+Janiye
+B
+---
+The dialogue "Yeh Dosti Hum Nahi Todenge" is from which classic film?
+Padosan
+Sholay
+Amar Akbar Anthony
+Zanjeer
+B
+---
+What does the Gen Z slang term "**Cringe**" refer to?
+Cool and stylish
+Awkward or embarrassing behaviour
+Loud and exciting
+Subtle and quiet
+B
+---
+Which film features the dialogue, "Tension lene ka nahi, sirf dene ka"?
+Hera Pheri
+Munna Bhai M.B.B.S.
+Welcome
+3 Idiots
+B
+---
+The viral trend "**Girl Math**" is about:
+Complex calculations
+Humorous justifications for spending money
+Solving geometry problems
+Financial literacy
+B
+---
+Which popular Indian rapper is known for his song "Baazigar" and frequent reel usage?
+Emiway Bantai
+Divine
+King
+Raftaar
+C
+---
+The dialogue "**Pookie**" is a Gen Z term, often used to refer to:
+A type of food
+An affectionate or playful term for a loved one
+A smart person
+A stylish outfit
+B
+---
+What does the Gen Z slang term "**Iykyk**" stand for?
+I'm Your King, You're My Queen
+If You Know, You Know
+I Yearn for Your Kisses
+I Keep You Keen
+B
+---
+The song "**Chaleya**" which trended for romantic reels is from which film?
+Pathaan
+Jawan
+Dunki
+Fighter
+B
+---
+The comedy reel audio "Tu mere agal bagal hai" is from which film?
+Aashiqui 2
+Phata Poster Nikhla Hero
+Chennai Express
+Heropanti
+B
+---
+What does **Rizz** mean in Gen Z slang?
+A type of dance
+Charisma or charming ability
+A new hairstyle
+A strong disagreement
+B
+---
+Which mobile application is famously known for its "Streak" feature?
+Instagram
+WhatsApp
+Snapchat
+Telegram
+C
+---
+The Gen Z slang "**Sus**" is short for:
+Suddenly
+Suspicious
+Suggestion
+Subscribe
+B
+---
+Which famous Indian web series is about students preparing for the tough JEE exam?
+Aspirants
+Scam 1992
+Kota Factory
+Mirzapur
+C
+---
+The popular game *BGMI* played by Gen Z stands for:
+Best Gaming Mobile Interface
+Battlegrounds Mobile India
+Big Game Master Interface
+Bold Global Mobile Internet
+B
+---
+What does the Gen Z slang term "**Cap**" mean?
+A success
+A lie or falsehood
+An agreement
+A stylish item
+B
+---
+The term "**L**" in Gen Z slang is short for:
+Light
+Love
+Loss or failure
+Logic
+C
+---
+The viral audio "My Name Is" is most commonly associated with which Bollywood actor's introduction scene?
+Salman Khan
+Shah Rukh Khan
+Hrithik Roshan
+Ranveer Singh
+B
+---
+The phrase "**Ek chutki sindoor ki keemat**" is a dialogue from which film?
+Om Shanti Om
+Chennai Express
+DDLJ
+Vivah
+A
+---
+The show ***Panchayat*** features which popular actor in the lead role?
+Jitendra Kumar
+Manoj Bajpayee
+Raghubir Yadav
+Brijendra Kala
+A
+---
+Which blockbuster film stars Alia Bhatt and Ranbir Kapoor as a couple who possess special powers?
+War
+Brahmāstra
+RRR
+Pathaan
+B
+---
+The popular web series ***Mirzapur*** is set in which Indian state?
+Bihar
+Uttar Pradesh
+Madhya Pradesh
+Rajasthan
+B
+---
+The dialogue "**Rishte mein to hum tumhare baap lagte hain**" is from which Amitabh Bachchan film?
+Deewar
+Shahenshah
+Don
+Coolie
+B
+---
+Which is the first Indian film to be fully converted into color in 2004?
+Raja Harishchandra
+Sholay
+Mughal-e-Azam
+Naya Daur
+C
+---
+The dialogue "**Babumushoi, zindagi badi honi chahiye… lambi nahin**" is from which classic film?
+Bawarchi
+Anand
+Safar
+Guddi
+B
+---
+The dialogue "**Tumhari Maa ne tumhe paida kiya hai, aur maine...**" is from which film?
+Deewar
+Mr. India
+Sholay
+Tezaab
+B
+---
+Which popular OTT series follows a common man's life as he manages intelligence work and family life?
+Special Ops
+The Family Man
+Bard of Blood
+Scam 1992
+B
+---
+The viral song "**Tu Aake Dekhle**" is sung by which popular Indian artist?
+Darshan Raval
+Armaan Malik
+King
+Prateek Kuhad
+C
+---
+What is the famous phrase used by the character **Jaadu** in *Koi... Mil Gaya*?
+Main Hoon Don
+Om Shanti Om
+Dhishoom
+Aaila
+C
+---
+Which OTT show is a spin-off of *The Family Man* focusing on the character Chellam Sir?
+Only Murders in the Building
+The Family Man: Chellam Sir
+Mirzapur: Chellam Sir
+None of the above
 D
 ---
-A loop in programming is used to...
-Stop the program
-Perform math
-Repeat a block of code
-Store a variable
-C
----
-What does AI stand for?
-Artificial Intelligence
-Automated Interface
-Algorithmic Identity
-Advanced Intel
+Which OTT series, a spiritual successor to *Sacred Games*, is known for its dark and gritty theme set in Mumbai?
+Paatal Lok
+Mirzapur
+Scam 1992
+Breathe
 A
 ---
-What is the subset of AI that involves training models on data?
-Machine Learning
-Deep Thinking
-Data Science
-Robotics
+What is the profession of the character played by Pankaj Tripathi in the series ***Mirzapur***?
+Police Officer
+Gangster/Mafia Boss
+Lawyer
+Politician
 B
 ---
-Deep Learning, which uses neural networks, is a subset of...
-Machine Learning
-Data Science
-Cybersecurity
-Cloud Computing
+The iconic dialogue "**Kutte, kameene, main tera khoon pee jaoonga**" is from which film?
+Don
+Deewaar
+Sholay
+Zanjeer
+B
+---
+Which OTT series is based on the real-life Harshad Mehta stock market scam?
+Scam 1992: The Harshad Mehta Story
+Delhi Crime
+Aspirants
+Paatal Lok
 A
 ---
-What company developed the ChatGPT AI model?
-Google
-Meta
-OpenAI
-Microsoft
-C
----
-A 'neural network' in AI is designed to mimic...
-A computer's CPU
-The human brain
-A spider's web
-A social network
+Which film contains the dialogue: "**Mujhse Dosti Karoge?**" (a popular Reel audio clip)?
+DDLJ
+Kuch Kuch Hota Hai
+Hum Tum
+Dhoom 2
 B
 ---
-What does GPU stand for?
-General Processing Unit
-Graphical Power Unit
-General Purpose Unit
-Graphics Processing Unit
-D
----
-What is 'malware'?
-Malicious software
-Hardware for mail
-A type of motherboard
-A data analysis tool
-A
----
-A 'phishing' attack tries to...
-Fix your computer
-Sell you fish
-Steal your credentials
-Install an antivirus
-C
----
-What does SSD stand for?
-Software Storage Drive
-Solid State Drive
-Secure Socket Drive
-System Storage Disk
+The term "**Aura**" in Gen Z slang refers to:
+A type of car
+A distinctive atmosphere or quality exuded by a person
+A new type of phone
+A stylish piece of jewellery
 B
 ---
-Which is generally faster, an SSD or an HDD?
-SSD
-HDD
-They are the same
-Depends on the CPU
-A
----
-What does USB stand for?
-United Serial Bus
-Universal System Bus
-Universal Serial Bus
-Uni-System Bus
-C
----
-What is 'The Cloud' in cloud computing?
-A network of satellites
-A network of remote servers
-A type of weather simulation
-A new operating system
-B
----
-Which of these is a major cloud service provider?
-Adobe
-Amazon Web Services (AWS)
-Dropbox
+Which streaming platform is known for popular series like *The Marvelous Mrs. Maisel* and *Panchayat*?
 Netflix
+Amazon Prime Video
+Disney+ Hotstar
+Voot
 B
 ---
-What is a 'firewall'?
-A network security device
-A part of the CPU
-A computer virus
-A type of monitor
-A
----
-What unit measures a CPU's clock speed?
-Gigabytes (GB)
-Megahertz (MHz)
-Gigahertz (GHz)
-Volts (V)
+The dialogue "**Kabhi Kabhi Aditi Zindagi Mein**" is a song from which Ranbir Kapoor movie?
+Yeh Jawaani Hai Deewani
+Rockstar
+Jaane Tu... Ya Jaane Na
+Wake Up Sid
 C
 ---
-What does 'bit' stand for?
-Binary Item
-Binary Digit
-Big Integer
-Basic Iteration
-B
----
-How many bits are in a byte?
-8
-16
-32
-64
-A
----
-What does 1024 Megabytes equal?
-1 Kilobyte
-1 Terabyte
-1 Gigabyte
-1 Petabyte
+The dialogue "**Kitne aadmi the?**" is from which classic film?
+Don
+Deewaar
+Sholay
+Lagaan
 C
----
-What is the file system used by Windows 10/11?
-ext4
-NTFS
-HFS+
-APFS
-B
----
-What company created the Android OS?
-Google
-Apple
-Microsoft
-Samsung
-A
----
-What company created the iOS operating system?
-Google
-Microsoft
-Samsung
-Apple
-D
----
-What is an 'algorithm'?
-A type of hardware
-A computer virus
-A set of rules for solving a problem
-A programming language
-C
----
-In C programming, what function prints to the console?
-print()
-console.log()
-printf()
-cout
-C
----
-What does SQL stand for?
-Structured Query Language
-Simple Query Language
-Standard Question Language
-System Query Logic
-A
----
-What is SQL used for?
-Styling websites
-Creating 3D models
-Managing data in a database
-Writing operating systems
-C
----
-What is a 'bug' in computing?
-An insect in the server
-An error or flaw in a program
-A type of malicious code
-A hardware feature
-B
----
-Who is known as the father of the computer?
-Alan Turing
-Bill Gates
-Steve Jobs
-Charles Babbage
-D
----
-What is 'Open Source' software?
-Software that is free to use
-Software with its source code available to all
-Software that is still in beta
-Software that runs on Linux
-B
----
-Which of these is an example of open-source software?
-Microsoft Word
-Adobe Photoshop
-Google Chrome
-Linux Kernel
-D
----
-What is 'Bluetooth' used for?
-Connecting to the internet
-Long-range satellite communication
-Short-range wireless communication
-Wired network connections
-C
----
-What does LAN stand for?
-Long Area Network
-Local Area Network
-Large Array Network
-Local Array Node
-B
----
-What does WAN stand for?
-Wide Area Network
-Wired Area Network
-Wireless Access Network
-Wide Array Node
-A
----
-What is the common standard for wireless internet connections?
-Bluetooth
-Ethernet
-Wi-Fi
-4G/5G
-C
----
-What is 'virtual reality' (VR)?
-A computer-generated simulation
-A video game
-A live-stream video
-A 2D movie
-A
----
-What is 'augmented reality' (AR)?
-A fully virtual world
-Overlays digital info onto the real world
-A type of AI
-A new kind of computer screen
-B
----
-What is 'data scraping'?
-Deleting data from a website
-Extracting data from websites
-A method of cleaning data
-A database error
-B
----
-What is 'Natural Language Processing' (NLP)?
-A programming language for text
-AI that understands human language
-A computer's built-in grammar check
-A data encryption method
-B
----
-What is 'Computer Vision'?
-A new type of monitor
-A high-resolution webcam
-AI that understands and interprets visual data
-A graphics design software
-C
----
-What is a 'Turing Test'?
-A test for CPU performance
-A test for computer hardware
-A test of an AI's ability to exhibit human-like intelligence
-A software debugging tool
-C
----
-What is 'AGI'?
-Artificial General Intelligence
-Advanced Graphics Interface
-Automated General Interface
-Artificial Gaming Intelligence
-A
----
-What is a 'Large Language Model' (LLM)?
-A big book about programming
-A type of data compression
-A large-scale AI model trained on text data
-A network protocol
-C
----
-What is 'generative AI'?
-AI that generates new content (text, images, etc.)
-AI that organizes data
-AI that detects viruses
-AI that only answers questions
-A
----
-What is a 'prompt' in the context of AI?
-The AI's final answer
-A command line in a terminal
-The input or instruction given to an AI model
-A software error message
-C
----
-What does 'bias' in AI mean?
-The AI's processing speed
-The physical size of the AI model
-Systematic errors or unfairness in AI outputs
-The AI's ability to learn
-C
----
-What is 'reinforcement learning'?
-Learning from labeled data
-Learning from unlabeled data
-Learning by trial and error (rewards/penalties)
-Learning by memorizing code
-C
----
-What is 'supervised learning'?
-AI learning without any human help
-AI learning from unlabeled data
-AI learning from labeled data (input-output pairs)
-AI supervising other AIs
-C
----
-What is 'unsupervised learning'?
-AI learning from a teacher
-AI learning from labeled data
-AI learning to find patterns in unlabeled data
-AI that cannot learn
-C
----
-What is the 'motherboard'?
-The main circuit board connecting all components
-The computer's power supply
-The computer's outer case
-A removable storage device
-A
----
-What does PSU stand for?
-Primary Storage Unit
-Power Supply Unit
-Processing System Unit
-Peripheral Service Unit
-B
----
-What is 'thermal paste' used for?
-Cleaning the computer screen
-Connecting USB devices
-Improving heat transfer between CPU and heat sink
-Lubricating the hard drive
-C
----
-What is a 'heat sink'?
-A component that cools the CPU/GPU by dissipating heat
-A software for monitoring temperature
-A type of computer virus
-A part of the power supply
-A
----
-What is 'cache' memory?
-Long-term storage
-A type of optical disc
-The computer's main memory (RAM)
-Small, fast memory on or near the CPU
-D
----
-What does 'pixel' stand for?
-Picture Element
-Primary Image Element
-Picture Extension
-Projected Element
-A
----
-What does 'resolution' refer to (e.g., 1920x1080)?
-The physical size of the screen
-The number of pixels on a display
-The color depth
-The refresh rate
-B
----
-What is 'refresh rate' (measured in Hz)?
-How fast the internet is
-How quickly the CPU works
-How many times the screen updates per second
-How many colors the screen can show
-C
----
-What is a 'cookie' (in web terms)?
-A type of malware
-A small piece of data stored by your browser
-A web browser plugin
-An email attachment
-B
----
-What is 'incognito' or 'private browsing'?
-A mode that encrypts all internet traffic
-A mode that makes your internet faster
-A mode that prevents malware
-A mode that doesn't save browsing history
-D
----
-What is a 'kernel' in an OS?
-The user interface
-The main settings panel
-The core component of the operating system
-A type of software application
-C
----
-What does CLI stand for?
-Command Line Interface
-Common Language Interface
-Computer Logic Interface
-Control Line Input
-A
----
-What does GUI stand for?
-Graphical User Interface
-General User Input
-Game Utility Interface
-Global Unique Identifier
-A
----
-What is a 'driver' (in computing)?
-A person who codes
-A software that lets the OS communicate with hardware
-A type of hard drive
-A high-speed USB port
-B
----
-What is a 'zip' file?
-A very fast file
-A file that is locked
-A compressed file archive
-A system file
-C
----
-What is 'decompression'?
-Editing a file
-Creating a zip file
-Deleting a file
-Extracting files from a compressed archive
-D
----
-What does 'Wi-Fi' stand for?
-Wireless Fidelity
-Wireless Internet for All
-Wired Fidelity
-It doesn't stand for anything
-D
----
-What is an 'IP address'?
-A computer's physical address
-A unique address for a device on a network
-The name of your internet provider
-A password for Wi-Fi
-B
----
-What is a 'domain name'?
-The IP address
-The name of a computer
-A human-readable name for a website
-A type of web server
-C
----
-What is a 'server'?
-A personal computer
-A web browser
-A computer that provides services to other computers
-A type of programming language
-C
----
-What is a 'client' (in networking)?
-The main server
-A computer that requests services from a server
-A network security program
-The network administrator
-B
----
-What is 'latency' or 'ping'?
-Internet download speed
-Internet upload speed
-The delay in data transfer
-The amount of data transferred
-C
----
-What is 'bandwidth'?
-The delay in a network
-The maximum data transfer rate of a network
-A type of network security
-The number of devices on a network
-B
----
-What is 'phishing'?
-A type of fishing video game
-An attempt to steal personal info via deceptive emails
-A network speed test
-A type of data compression
-B
----
-What is a 'Trojan' (in computing)?
-A type of antivirus
-A network router
-Malware disguised as legitimate software
-A hardware component
-C
----
-What is a 'virus' (in computing)?
-A hardware malfunction
-A program that replicates itself and infects other files
-An email spam filter
-A network firewall
-B
----
-What is a 'worm' (in computing)?
-A type of computer hardware
-A standalone malware that replicates to spread
-A system utility software
-A social media application
-B
----
-What is 'spyware'?
-Software that secretly monitors a user's activity
-An antivirus program
-A network security protocol
-A tool for speeding up a computer
-A
----
-What is an 'exploit' (in security)?
-A helpful computer feature
-A piece of code that takes advantage of a vulnerability
-A system update
-A type of firewall
-B
----
-What is a 'zero-day' vulnerability?
-A vulnerability that is fixed
-A security flaw that is known to the public
-A security flaw unknown to the software vendor
-A vulnerability that is 100 days old
-C
----
-What is 'encryption'?
-Converting data into a secret code
-Deleting data permanently
-Compressing data
-A type of computer virus
-A
----
-What is 'decryption'?
-Converting secret code back into readable data
-Encrypting data
-Deleting encrypted data
-Analyzing network traffic
-A
----
-What is 'brute force' attack?
-A physical attack on a computer
-Trying many passwords to guess the correct one
-A type of computer virus
-An attack that shuts down a website
-B
----
-What is a 'DDoS' attack?
-An attack to steal data
-An attack to guess a password
-An attack to overwhelm a server with traffic
-An attack to install a virus
-C
----
-What is 'open source'?
-Software that is not finished
-Software that is free to use
-Software with publicly available source code
-Software owned by a large corporation
-C
----
-What is a 'repository' (in Git)?
-A collection of files and their revision history
-A single file
-A specific command
-A software bug
-A
----
-What is 'agile' in software development?
-A specific programming language
-A way to write code faster
-A project management methodology
-A type of software testing
-C
----
-What is 'scrum'?
-A type of software bug
-A framework within the Agile methodology
-A database query
-A computer virus
-B
----
-What is a 'sprint' in Scrum?
-A quick meeting
-A final software release
-A short, time-boxed period to complete work
-A bug-fixing session
-C
----
-What is 'DevOps'?
-A specific programming language
-A set of practices combining software development and IT operations
-A new operating system
-A type of cloud computing
-B
----
-What is 'CI/CD'?
-Continuous Integration / Continuous Delivery
-Computer Interface / Computer Design
-Central Integration / Central Deployment
-Code Interaction / Code Deployment
-A
----
-What is 'containerization' (e.s., Docker)?
-A physical box for a server
-A type of data encryption
-Packaging software and its dependencies into a container
-A network security protocol
-C
----
-What is 'Kubernetes'?
-A containerization tool
-An open-source container orchestration system
-A cloud database
-A programming language
-B
----
-What is 'serverless' computing?
-Running a computer with no server
-A cloud model where the provider manages server infrastructure
-A computer with no operating system
-A type of offline application
-B
----
-What is a 'microservice' architecture?
-A very small computer
-Building an application as a suite of small, independent services
-A type of mobile app
-A software debugging tool
-B
----
-What is a 'monolithic' architecture?
-A modern, distributed application
-Building an application as a single, unified unit
-A type of AI model
-A database structure
-B
----
-What does 'SDK' stand for?
-Software Development Kit
-System Design Kit
-Secure Download Key
-Server Deployment Kit
-A
----
-What is a 'heat map'?
-A computer temperature sensor
-A data visualization using colors to represent values
-A type of computer virus
-A network security scan
-B
----
-What is 'A/B testing'?
-Testing if a computer is on or off
-A method of comparing two versions of a webpage or app
-A hardware diagnostic test
-A type of AI training
-B
----
-What is 'user interface' (UI)?
-The core logic of a program
-The visual elements a user interacts with
-The computer's hardware
-The network connection
-B
----
-What is 'user experience' (UX)?
-The user's internet speed
-The overall experience a user has with a product
-The software's source code
-The computer's CPU speed
-B
----
-What is 'pseudocode'?
-A type of computer virus
-An informal, high-level description of a program's logic
-Encrypted code
-Machine code
-B
----
-What is a 'flowchart'?
-A chart of network traffic
-A diagram representing a workflow or process
-A type of database
-A graph of a computer's temperature
-B
----
-What is 'syntax' in programming?
-The logic of a program
-The rules governing the structure of code
-The speed of a program
-A software bug
-B
----
-What is an 'IDE'?
-Integrated Development Environment
-Internal Device E-reader
-Intelligent Design Engine
-Internet-Deployed Executable
-A
----
-Which of these is a popular IDE?
-Google Chrome
-Microsoft Word
-Visual Studio Code
-Adobe Photoshop
-C
----
-What is 'binary code'?
-A programming language
-A base-10 number system
-A base-2 number system (using 0s and 1s)
-A type of text file
-C
----
-What does 'ASCII' stand for?
-American Standard Code for Information Interchange
-Advanced Standard Code for Internet Interface
-All Standard Code for Image Interop
-American System Code for International Internet
-A
----
-What is 'Unicode'?
-A universal character encoding standard
-A programming language
-A type of computer virus
-A hardware component
-A
----
-What is 'UTF-8'?
-A popular Unicode encoding
-A type of computer file
-A CPU instruction set
-A network protocol
-A
----
-What is 'metadata'?
-The main content of a file
-Data that provides information about other data
-A type of computer virus
-A programming function
-B
----
-What is 'data compression'?
-Deleting data
-Encrypting data
-Encoding data using fewer bits
-A type of data analysis
-C
----
-What is 'lossy' compression?
-Compression where no data is lost
-Compression where some data is permanently lost
-A type of file encryption
-A method for repairing data
-B
----
-What is 'lossless' compression?
-Compression where some data is lost
-Compression where all original data can be recovered
-A type of computer virus
-A hard drive formatting tool
-B
----
-Which is an example of a lossy format?
-ZIP
-PNG
-JPEG
-TXT
-C
----
-Which is an example of a lossless format?
-MP3
-JPEG
-PNG
-MPEG
-C
----
-What is 'firmware'?
-A type of soft, flexible hardware
-Software permanently embedded in a hardware device
-A computer's main operating system
-A type of antivirus
-B
----
-What does 'BIOS' stand for?
-Basic Input/Output System
-Binary Integrated Operating System
-Basic Interface Operating Setup
-Binary Internet Output Standard
-A
----
-What is 'UEFI'?
-A new programming language
-A modern replacement for BIOS
-A type of hard drive
-A video file format
-B
----
-What does 'HTTP' stand for?
-HyperText Transfer Protocol
-High-Level Text Protocol
-Hyperlink Transfer Protocol
-Home T-sync Transfer Port
-A
----
-What does 'FTP' stand for?
-File Transfer Protocol
-Fast Transfer Protocol
-File Text Protocol
-Final Transfer Process
-A
----
-What does 'SMTP' stand for?
-Simple Mail Transfer Protocol
-Secure Mail Transfer Protocol
-System Mail Transfer Program
-Simple Message Text Protocol
-A
----
-What is 'Responsive Design' in web development?
-A website that loads quickly
-A website that responds to user clicks
-A website that looks good on all device sizes
-A website with AI features
-C
----
-What does 'URL' stand for?
-Uniform Resource Locator
-Universal Resource Link
-Uniform Record Locator
-Universal Record Link
-A
----
-What is 'cache' in a web browser?
-The browser's settings
-The user's saved passwords
-Stored files to speed up future visits to a website
-The browser's incognito mode
-C
----
-What is 'JavaScript'?
-A language for database queries
-A styling language for websites
-A programming language for web interactivity
-A server-side-only language
-C
----
-What is 'TypeScript'?
-A new type of computer hardware
-A superset of JavaScript that adds types
-A markup language
-A database system
-B
----
-What is a 'Boolean' value?
-A number
-A string of text
-A true or false value
-A decimal value
-C
----
-What is 'Linux'?
-A web browser
-A hardware company
-An open-source operating system kernel
-A Microsoft product
-C
----
-What is a 'terminal' or 'shell'?
-A computer's graphical interface
-A command-line interface for the OS
-A type of text editor
-A network firewall
-B
----
-What is 'Python'?
-A type of computer hardware
-A high-level, interpreted programming language
-A web browser
-A database
-B
----
-What is 'Java'?
-A high-level, compiled programming language
-A type of coffee
-A web styling language
-A text editor
-A
----
-What is 'C++'?
-A low-level language
-A scripting language
-A high-level, compiled language, an extension of C
-A database query language
-C
----
-What is 'SQL' used for?
-Creating 3D graphics
-Writing operating systems
-Managing and querying databases
-Styling web pages
-C
----
-What is 'Machine Learning'?
-A computer that can learn by itself
-A subset of AI where systems learn from data
-A type of computer hardware
-A human learning to use a machine
-B
----
-What is a 'Neural Network'?
-A network of computers
-A model in AI inspired by the human brain
-A type of internet connection
-A computer's wiring
-B
 ---

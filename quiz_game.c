@@ -49,7 +49,7 @@ void shuffle(int *array, int n) {
         array[j] = temp;
     }
 }
-
+// Adding Questions
 void add_question(QuizItem quiz[], int *n) {
     if(*n >= MAX_QUESTIONS) {
         printf("Reached max number of questions (%d). Cannot add more.\n", MAX_QUESTIONS);
@@ -75,7 +75,7 @@ void add_question(QuizItem quiz[], int *n) {
     (*n)++;
     printf("Question added successfully!\n");
 }
-
+// Deleating the Question
 void delete_question(QuizItem quiz[], int *n) {
     if(*n == 0) {
         printf("No questions to delete.\n");
